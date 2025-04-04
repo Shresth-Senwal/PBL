@@ -50,7 +50,7 @@ This repository contains the source code and build instructions for a folding wi
 ### Firmware Setup
 
 1. **Clone the Repository:**
-   ```bash git clone https://github.com/Shresth-Senwal/PBL.git
+   ``` git clone https://github.com/Shresth-Senwal/PBL.git bash
  
    ```
 
